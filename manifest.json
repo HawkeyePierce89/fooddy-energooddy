@@ -1,0 +1,8 @@
+{
+  "name": "Fooddy Energooddy",
+  "description": "Extension for fast check of food energy on russian online marketplaces",
+  "version": "1.0",
+  "manifest_version": 3,
+  "default_locale": "ru",
+  "author": "Anton Karmanov"
+}
